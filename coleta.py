@@ -4,7 +4,6 @@ from selenium.webdriver.chrome.service import Service
 import pandas as pd
 
 lista_precos = []
-lista_titulos = []
 
 dataFrame = {
     "titulo": [],
